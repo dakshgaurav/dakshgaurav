@@ -1,4 +1,4 @@
-As a DevOps Engineer with 1.5 years of hands-on experience, I am passionate about creating seamless and efficient workflows that enhance software development and deployment processes. My expertise lies in leveraging tools and technologies like Jenkins, Terraform, AWS, and Linux to automate and optimize infrastructure management.
+As a DevOps Engineer with 2.1 years of hands-on experience, I am passionate about creating seamless and efficient workflows that enhance software development and deployment processes. My expertise lies in leveraging tools and technologies like Jenkins, Terraform, AWS, and Linux to automate and optimize infrastructure management.
 
 Throughout my career, I have focused on:
 
